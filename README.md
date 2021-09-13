@@ -17,5 +17,20 @@ Now the company needs your help in building a model to predict whether the perso
 
 3 Recommended Policy Information
 
+# Related Variable
+1. **ID** - Unique id.
+2. **City_Code** - Code for the city of users.
+3. **Region_Code** - Code for the region of the users.
+4. **Accomodation_Type** - Customer owns/rents the house.
+5. **Reco_Insurance_Type** - Joint or individual type for the recommended insurance.
+6. **Upper_Age** - Maximium age of the customer.
+7. **Lower_Age** - Minimium age of the customer.
+8. **Is_Spouse** - If the customer is married or not.
+9. **Health Indicator** - Encoded values for health of the customer.
+10. **Holding_Policy_Duration** - Duration in year of holding policy.
+11. **Holding_Policy_Type** - Type of holding policy.
+12. **Reco_Policy_Cat** - Encoded values of recommended health insurance.
+13. **Reco_Policy_Premium** - Annual premium(INR) for the recommended health insurance.
+
 # Exploratory Data Analysis
 I explored how did our features distribute, how they work together. For more you can look at my EDA part, there are a lot of graphs, which is interesting and helpful. They helped us to understand, how our data works. Below you can see most important graphs
