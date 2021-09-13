@@ -1,4 +1,4 @@
-# **Health-Insurance-Lead-Prediction** Competition Project
+# **Health-Insurance-Lead-Prediction-** Job-A_Thon Project
 
 # Job-A-Thon - Analytics Vidhya, Health Insurance
 
