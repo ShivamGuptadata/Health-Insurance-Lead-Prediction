@@ -34,3 +34,44 @@ Now the company needs your help in building a model to predict whether the perso
 
 # Exploratory Data Analysis
 I explored how did our features distribute, how they work together. For more you can look at my EDA part, there are a lot of graphs, which is interesting and helpful. They helped us to understand, how our data works. Below you can see most important graphs
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic1.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic2.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic3.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic4.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic5.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic6.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic7.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic8.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic9.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic10.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic11.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic12.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic13.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic14.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic15.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic16.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic17.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic18.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic19.png)
+
+![](https://github.com/ShivamGuptadata/Health-Insurance-Lead-Prediction/blob/main/extra/pic20.png)
+
